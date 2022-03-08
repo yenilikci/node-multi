@@ -1,0 +1,25 @@
+{
+  "name": "node-multi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon parent.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yenilikci/node-multi.git"
+  },
+  "keywords": [],
+  "author": "yenilikci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yenilikci/node-multi/issues"
+  },
+  "homepage": "https://github.com/yenilikci/node-multi#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
